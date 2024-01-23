@@ -1,0 +1,14 @@
+LICENSE
+README.md
+pyproject.toml
+setup.cfg
+src/mcdata/ManipularTabela.py
+src/mcdata/__init__.py
+src/mcdata/dicionarios.py
+src/mcdata/s3.py
+src/mcdata/transformar.py
+src/mcdata_package.egg-info/PKG-INFO
+src/mcdata_package.egg-info/SOURCES.txt
+src/mcdata_package.egg-info/dependency_links.txt
+src/mcdata_package.egg-info/top_level.txt
+tests/teste.py

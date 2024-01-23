@@ -1,0 +1,10 @@
+LICENSE
+README.md
+pyproject.toml
+setup.cfg
+src/mcdata/__init__.py
+src/mcdata/main.py
+src/mcdata.egg-info/PKG-INFO
+src/mcdata.egg-info/SOURCES.txt
+src/mcdata.egg-info/dependency_links.txt
+src/mcdata.egg-info/top_level.txt

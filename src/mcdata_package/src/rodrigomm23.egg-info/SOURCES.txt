@@ -1,0 +1,14 @@
+LICENSE
+README.md
+pyproject.toml
+setup.cfg
+src/mcdata/ManipularTabela.py
+src/mcdata/__init__.py
+src/mcdata/dicionarios.py
+src/mcdata/s3.py
+src/mcdata/transformar.py
+src/rodrigomm23.egg-info/PKG-INFO
+src/rodrigomm23.egg-info/SOURCES.txt
+src/rodrigomm23.egg-info/dependency_links.txt
+src/rodrigomm23.egg-info/top_level.txt
+tests/teste.py
